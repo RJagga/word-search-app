@@ -1,0 +1,5 @@
+com\example\wordsearch\WordSearchApplication.class
+com\example\wordsearch\config\WebConfig.class
+com\example\wordsearch\controller\WordController.class
+com\example\wordsearch\service\TrieService.class
+com\example\wordsearch\trie\TrieNode.class
